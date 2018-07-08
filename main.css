@@ -1,0 +1,41 @@
+html {
+  font-family: Georgia, Times, Times New Roman, serif;
+  color: #333;
+  line-height: 1.5;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1,
+h2 {
+  font-weight: 400;
+  margin: 0;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  margin-bottom: .5em;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  color: #2795F0;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
